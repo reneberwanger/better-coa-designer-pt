@@ -4,25 +4,25 @@
   guide_h: "Guia horizontal"
   edit_emblem: "#T Editar propriedades"
   close: "Fechar"
-  COA_DESIGNER_EMBLEM_INSTANCE_SELECTION_TT_new: "$COA_DESIGNER_EMBLEM_INSTANCE_SELECTION_TT$\n#I Clique com o botão direito para remover#!"
-  reset_guides: "Redefinir posição das guias"
+  COA_DESIGNER_EMBLEM_INSTANCE_SELECTION_TT_new: "$COA_DESIGNER_EMBLEM_INSTANCE_SELECTION_TT$\n#I Right-click to remove#!"
+  reset_guides: "Redefinir posição das linhas-guia"
   guide_color: "Alternar guias azuis"
   sliders: "Deslizadores grandes"
-  precise_editing: "Use a roda do mouse para ajustar mais precisamente"
+  precise_editing: "Use a rolagem do mouse para ajustar com mais precisão"
   markers: "Marcadores"
   compact_emblem_list: "Lista compacta"
-  # change this if there's not enough space, vanilla translations are very long
+ # change this if there's not enough space, vanilla translations are very long
   shorter_combined_checbox: "$COA_DESIGNER_SCALE_COMBINED_CHECKBOX_LABEL$"
   reset_emblems: "Redefinir emblemas"
 
-  # novo, seletor de cores
+ # new, color picker
 
-  switch_color_mode: "\n#i Clique para alternar para este modo"
-  editbox_color_hex: "#high Código Hex"
-  editbox_color_hue: "#high Matiz#!\nModo padrão $switch_color_mode$"
+  switch_color_mode: "\n#i Click to switch to this mode"
+  editbox_color_hex: "#high Código hexadecimal"
+  editbox_color_hue: "#high Hue#!\nDefault mode $switch_color_mode$"
   editbox_color_saturation: "#high Saturação $switch_color_mode$"
-  editbox_color_value: "#high Valor $switch_color_mode$" # pode também usar brilho
+  editbox_color_value: "#high Value $switch_color_mode$" # can also use brightness
   editbox_color_red: "#high Vermelho $switch_color_mode$"
   editbox_color_green: "#high Verde $switch_color_mode$"
   editbox_color_blue: "#high Azul $switch_color_mode$"
-  editbox_color_alpha: "#high Alfa $switch_color_mode$"
+  editbox_color_alpha: "#high Transparência $switch_color_mode$"
